@@ -14,9 +14,9 @@ took the application from this repo https://github.com/dgailh/udacity-catalog an
 
 
 references:  
-http://www.hcidata.info/host2ip.cgi .  
-https://uconnectsaudi.slack.com . 
-https://github.com/chuanqin3/udacity-linux-configuration/blob/master/README.md .  
-https://stackoverflow.com/questions .  
-https://classroom.udacity.com <<< Servers, Authorization, and CRUD .  
-https://github.com/mulligan121/Udacity-Linux-Configuration .  
+http://www.hcidata.info/host2ip.cgi   
+https://uconnectsaudi.slack.com  
+https://github.com/chuanqin3/udacity-linux-configuration/blob/master/README.md   
+https://stackoverflow.com/questions   
+https://classroom.udacity.com <<< Servers, Authorization, and CRUD   
+https://github.com/mulligan121/Udacity-Linux-Configuration   
